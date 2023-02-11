@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋I'm Bae Gi Yeon
-
-
+### 👋Hi, I'm Bae Gi Yeon
 </br>
 
 ---
