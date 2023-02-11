@@ -12,19 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋Introdution
-*Sungshin Woman's University
-Information Systems Engineering*
-초보 개발자입니다.
+### 👋I'm Bae Gi Yeon
+
 
 </br>
 
 ---
-### :pencil2:Studying
- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+### ✏️Studying
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
  
-
+ </br>
+ 
+ 
+### ✉️Contact
+<a href="https://record-everything.tistory.com/">
+            <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
+ 
 
