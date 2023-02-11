@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋Hi, I'm Bae Gi Yeon
+### 👋Hello, I'm Bae Gi Yeon
 *Sungshin Women's University  
 Information Systems Engineering*
   
