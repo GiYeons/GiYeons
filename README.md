@@ -29,6 +29,6 @@ Here are some ideas to get you started:
  
 ### ✉️Contact
 <a href="https://record-everything.tistory.com/">
-            <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
  
 
