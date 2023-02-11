@@ -22,7 +22,7 @@ Information Systems Engineering*
 ---
 ### :pencil2:Studying
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <
- img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <
+ img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <
  img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <
  img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
  
