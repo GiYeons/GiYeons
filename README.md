@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ---
 ### ✏️Studying
- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
  
  </br>
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
  
 ### ✉️Contact
 <a href="https://record-everything.tistory.com/">
-            <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
  
 
