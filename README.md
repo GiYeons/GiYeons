@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👋Hi, I'm Bae Gi Yeon
-*Sungshin Women's University</
+*Sungshin Women's University</a>
 Information Systems Engineering*
 
 </br>
